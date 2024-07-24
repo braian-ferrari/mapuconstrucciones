@@ -119,19 +119,19 @@
 }
 
 .u-section-2 .u-image-1 {
-  background-image: url("images/1.jpg");
+  background-image: url("/index2.jpg");
   min-height: 284px;
   background-position: 50% 50%;
 }
 
 .u-section-2 .u-image-2 {
-  background-image: url("images/Untitled1.jpg");
+  background-image: url("index3.jpg");
   min-height: 284px;
   background-position: 50% 50%;
 }
 
 .u-section-2 .u-image-3 {
-  background-image: url("images/2.jpg");
+  background-image: url("index4.jpg");
   min-height: 284px;
   background-position: 50% 50%;
 }
@@ -242,7 +242,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 602px;
-  background-image: url("images/4f00076946b4093289669f43c543b590.jpg");
+  background-image: url("/llave\ en\ mano.jpg");
   background-position: 50% 100%;
 }
 
@@ -524,25 +524,25 @@
 
 .u-section-5 .u-image-1 {
   min-height: 301px;
-  background-image: url("images/Untitled5.jpg");
+  background-image: url("/que\ proponemos1.jpg");
   background-position: 50% 50%;
 }
 
 .u-section-5 .u-image-2 {
   min-height: 301px;
-  background-image: url("images/33dee2efdaae64632514e4942754b400.jpg");
+  background-image: url("/queproponemos2.jpg");
   background-position: 50% 50%;
 }
 
 .u-section-5 .u-image-3 {
   min-height: 301px;
-  background-image: url("images/d39717eb731b7ff9448aeffca445f15d.jpg");
+  background-image: url("/queproponemos3.jpg");
   background-position: 50% 50%;
 }
 
 .u-section-5 .u-image-4 {
   min-height: 301px;
-  background-image: url("images/8a209396-a5e6-d5fa-cdbb-6f3377184622.jpg");
+  background-image: url("/queproponemos4.jpg");
   background-position: 50% 0%;
 }
 
