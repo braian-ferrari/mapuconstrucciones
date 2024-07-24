@@ -870,6 +870,8 @@
   .u-section-6 .u-icon-1 {
     height: 64px;
     width: 64px;
+    position: relative;
+    right: 500px;
   }
 
   .u-section-6 .u-text-1 {
@@ -1141,7 +1143,7 @@
     min-height: 385px;
   }
 } .u-section-9 {
-  background-image: url("images/914aa6b8-5f20-9b36-d55e-5ce4743e9452.jpg");
+  background-image: url("/section9.jpg");
   background-position: 50% 50%;
 }
 
