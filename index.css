@@ -1746,3 +1746,9 @@
     margin-bottom: 55px;
   }
 }
+.lista{
+  list-style: none;
+  display: flex; 
+  flex-direction: row;
+  justify-content: space-around;
+}
